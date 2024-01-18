@@ -1,2 +1,2 @@
-# css-avan-ado-posicionamento-curso-origamid
+# css-avançado-posicionamento-curso-origamid
 Curso origamid posicionamento 
